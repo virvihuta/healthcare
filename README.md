@@ -30,9 +30,9 @@ The goal is to combine machine learning techniques with real-world healthcare da
 
 # Results
 
-- Heart disease prediction using ML classifiers
-
-- CNN for medical image classification (X-rays)
+- Heart disease prediction using ML/DL
+  
+- Breast cancer prediction using ML/DL
 
 - More experiments coming soon!
 
