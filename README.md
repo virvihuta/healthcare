@@ -48,7 +48,7 @@ Resources
 
 # Contributing
 
-Contributions, issues, and pull requests are welcome!
+Contributions, issues and pull requests are welcome!
 
 # License
 
