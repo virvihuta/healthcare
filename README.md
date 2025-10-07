@@ -52,4 +52,4 @@ Contributions, issues and pull requests are welcome!
 
 # License
 
-This project is licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) — free to use, learn from, and extend.
